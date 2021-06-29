@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, i am André Oliveira
+CIO @EllipticTechnology
+
+[![Twitter Badge](https://img.shields.io/badge/-@o_oliveira086-0000?style=flat-square&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/o_oliveira086)](https://twitter.com/o_oliveira086) 
+[![Linkedin Badge](https://img.shields.io/badge/-André%20Oliveira-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveira086/)](https://www.linkedin.com/in/oliveira086/) 
+[![Gmail Badge](https://img.shields.io/badge/-andreluisoliveira013@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreluisoliveira013@gmail.com)](mailto:andreluisoliveira013@gmail.com)
 
 <!--
 **oliveira086/oliveira086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
