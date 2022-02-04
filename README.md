@@ -1,5 +1,5 @@
 # Hi, i am André Oliveira
-### IT Analyst
+### Software Engineer
 ### CEO @EllipticTechnology
 
 [![Twitter Badge](https://img.shields.io/badge/-@o_oliveira086-000?style=flat-square&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/o_oliveira086)](https://twitter.com/o_oliveira086) 
