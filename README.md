@@ -7,11 +7,6 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=oliveira086&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="oliveira086" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira086&layout=compact" alt="oliveira086">
-</a>
-
 <!--
 **oliveira086/oliveira086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
