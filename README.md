@@ -23,6 +23,7 @@
 </p>
 <h3>Tools</h3>
 <p>
+  <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visualstudiocode&Color=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Datagod" src="https://img.shields.io/badge/-Datadog-640D83?style=flat-square&logo=datadog&Color=white" />
